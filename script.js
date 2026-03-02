@@ -1,4 +1,3 @@
-
 function toggleForms() {
 	const loginForm = document.getElementById('loginForm');
 	const registrationForm = document.getElementById('registrationForm');
